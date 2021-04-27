@@ -1,0 +1,20 @@
+.whole {
+  text-align: center;
+}
+
+.itemContainer {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: left;
+
+  border: 1px solid purple;
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.item.hover {
+  background-color: lightgray;
+}
