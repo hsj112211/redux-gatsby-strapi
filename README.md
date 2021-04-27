@@ -12,6 +12,13 @@
 - 정적 페이지 개발시 Gatsby 프로젝트에 Redux를 설정하여 Strapi database의 정보를 간단히 조회만 할 수 있는 페이지.
 - Gatsby 특성상 CRUD 중 R의 기능만 사용 가능.
 
+3. 실행 방법
+- Create strapi prject 
+- Create Collection Types 
+ 1) CollectTypes name: menu
+ 2) Feild: name(text) , price(number integer)
+ 3) Insert sample data
+- Start gatsby project 
 
-3. Redux Setup 참조
+## Redux Setup 참조
 - https://github.com/cheal3/gatsby.git 
